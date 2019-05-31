@@ -1,4 +1,4 @@
-Machine Learning-driven Data Science
+# Machine Learning-driven Data Science
 
 <img src="https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/5/005/082/25a/083eb2e.jpg"
      style="float: left; margin-right: 100px;" width="150" />
